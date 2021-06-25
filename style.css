@@ -50,6 +50,7 @@ div {
 
 /* list and span wiht font style also formatting bullet to be flush with text */
 li {
+  padding: 4px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
 }
